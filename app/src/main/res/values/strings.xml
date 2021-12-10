@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Samsat</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="phone">Phone</string>
+    <string name="alamat">Alamat</string>
+    <string name="no_antrian">No. Antrian</string>
+    <string name="home">Home</string>
+    <string name="antrian">Antrian</string>
+    <string name="pajak">Pajak</string>
+    <string name="nopol">NOPOL</string>
+    <string name="informasi">Informasi</string>
+</resources>

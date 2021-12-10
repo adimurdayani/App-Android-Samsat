@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243331538729",
+    "project_id": "samsat-98867",
+    "storage_bucket": "samsat-98867.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243331538729:android:182248db2bbc17f653e138",
+        "android_client_info": {
+          "package_name": "com.kirana.samsat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243331538729-gsh8rvgu713fppjuqs9p2h3s5b7rj6k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHuMPCYuLk9Q8-DyKlXmawfI1_XmHY1rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243331538729-gsh8rvgu713fppjuqs9p2h3s5b7rj6k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
